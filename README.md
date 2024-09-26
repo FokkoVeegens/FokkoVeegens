@@ -10,5 +10,5 @@ You can ask me anything about Azure DevOps. I have worked with Azure DevOps sinc
 
 ## Details
 
-😄 Pronouns: He/Him
-⚡ Fun fact: I love to work on my classic car (a 1979 Mini)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love to work on my classic car (a 1979 Mini)
