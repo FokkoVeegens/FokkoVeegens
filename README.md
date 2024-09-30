@@ -8,6 +8,10 @@ I'm Fokko! I have a background as a C# developer at multiple employees, but sinc
 
 You can ask me anything about Azure DevOps. I have worked with Azure DevOps since its birth in 2005, when it used to be called Visual Studio Team System. Furthermore I'm working on my proficiency in everything around GitHub.
 
+## What I'm working on
+
+I just changed jobs. In my previous job I worked a lot with Azure DevOps. That will change, I will focus much more on GitHub and the GitHub ecosystem. Apart from that I hope to focus more on organizational work. I will still maintain the Azure DevOps Server Versions repository and I hope to be contributing more on the GitHub ecosystem.
+
 ## Details
 
 - 😄 Pronouns: He/Him
