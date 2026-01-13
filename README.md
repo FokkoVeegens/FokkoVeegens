@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I'm Fokko! I have a background as a C# developer at multiple employees, but since 2011 I'm involved in everything around Application Lifecycle Management and more specifically DevOps patterns and practices. It is my dream to transform a company using these patterns and practices, using my experience and of course using GitHub 😁. My current job is DevOps Consultant at [Xebia 💜](https://www.xebia.com), where I help customers adopt DevOps Patterns and practices.
+I'm Fokko! I have a background as a C# developer at multiple employers, but since 2011 I'm involved in everything around Application Lifecycle Management and more specifically DevOps patterns and practices. It is my dream to transform a company using these patterns and practices, using my experience and of course using GitHub 😁. My current job is DevOps Consultant at [Xebia 💜](https://www.xebia.com), where I help customers adopt DevOps Patterns and practices.
 
 ## 💬 Ask me about
 
